@@ -14,6 +14,7 @@ Ce script est un solveur de Sudoku qui résout presque toutes les énigmes de Su
 Vous avez déjà essayé de résoudre des énigmes de Sudoku dans les journaux, les magazines et en ligne, mais vous êtes resté bloqué. Vous pouvez utiliser ce script pour obtenir sa solution instantanément et aller plus loin.
 
 # Fonctionnement :
+Pour faire fonctionner le solveur de sudoku, il suffit d'exécuter le script App.py.
 Quand le script est exécuté, un page principale s'affiche. Cette page propose de générer, soit une grille de sudoku aléatoire, soit une grille de sudoku vide pour pouvoir résoudre les grilles papier.
 
 Si le bouton "grille aléatoire" est sélectionné, une grille vide va apparaitre, et il suffira de cliquer sur le bouton nouveau pour générer une grille aléatoire. Ensuite, il suffira de modifier les case "0" par les bonnes valeurs, ou cliquer sur résoudre pour afficher la solution.
